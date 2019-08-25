@@ -13,3 +13,5 @@ this is sample deployment
 now keep it in just add stage
 
 ##Making local changes
+
+##copyright
